@@ -1,12 +1,12 @@
 ## Confirmed Attendees
 
-1. [Alexander Bock](https://github.com/alexanderbock), New York University, [Email](mailto://alexander.bock@nyu.edu), [LinkedIn](https://www.linkedin.com/in/alexanderbock1), [Twitter](https://twitter.com/AlexanderBock)
+1. Alexander Bock, New York University, [LinkedIn](https://www.linkedin.com/in/alexanderbock1), [Twitter](https://twitter.com/AlexanderBock)
 1. [Alexandra	Paxton](http://www.alexandrapaxton.com), UC Berkeley
 1. [Andreas Mueller](http://amueller.io), New York University
 1. [Arvind Satyanarayan](http://arvindsatya.com), Stanford University
 1. [Bernease Herman](http://escience.washington.edu/people/bernease-herman/), University of Washington
 1. [Brian McFee](https://bmcfee.github.io), New York University
-1. Bryna Hazelton, University of Washington, [email](brynah@phys.washington.edu)
+1. Bryna Hazelton, University of Washington
 1. [Carly Strasser](http://carlystrasser.net), Moore Foundation
 1. [Chris Mentzel](https://www.moore.org/people-detail?personUrl=chrism), Moore Foundation
 1. [Daniel Himmelstein](http://dhimmel.com), University of Pennsylvania
@@ -17,7 +17,7 @@
 1. [Eurika	Kaiser](http://eurikakaiser.com), University of Washington
 1. [Fatma Deniz](http://fatmanet.com), UC Berkeley
 1. [Felix Reidl](http://tcs.rwth-aachen.de/~reidl/), North Carolina State University
-1. [Francois Michonneau](http://francoismichonneau.net), University of Florida
+1. [Francois Michonneau](http://francoismichonneau.net), University of Florida, [@fmic_](https://twitter.com/fmic_) (twitter) and [@fmichonneau](https://github.com/fmichonneau) (GitHub).
 1. [Gao Wang](http://home.uchicago.edu/gaow), University of Chicago
 1. [Garret Christensen](http://www.ocf.berkeley.edu/~garret), UC Berkeley
 1. [Harish Doraiswamy](http://www.harishd.com), New York University
@@ -48,7 +48,7 @@
 1. [Stefan Karpinski](http://karpinski.org/), Julia Computing
 1. [Stuart Geiger](http://stuartgeiger.com), UC Berkeley
 1. [Sunandan	Chakraborty](http://cs.nyu.edu/~sunandan/), New York University
-1. Tamer Ahmed, UC Davis. eMail: drtamermansour@gmail.com. Phone: 6512026357
+1. Tamer Ahmed, UC Davis
 1. Theo Rekatsinas, Stanford University
 1. Valentina Staneva, University of Washington
 1. [Vaughn Iverson](http://armbrustlab.ocean.washington.edu/people/iverson), University of Washington
